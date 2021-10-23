@@ -1,6 +1,7 @@
 ## Project Overview
 
 - This program builds then demonstrates the effectiveness of a linear regression model to predict American house prices.
+- The dataset was taken from Kaggle at https://www.kaggle.com/farhankarim1/usa-house-prices
 
 - The model was trained on the following features:
   - Mean income in the area
